@@ -5,6 +5,14 @@ This project showcases an interactive Tableau dashboard designed to help HR mana
 
 ---
 
+![Human Resources Tableau Project](assets/images/HR Dashboard Summary.png)
+
+---
+
+![Human Resources Tableau Project](assets/images/HR Dashboard Detailed.png)
+
+---
+
 ## 📖 Project Overview
 
 **User Story:**  
