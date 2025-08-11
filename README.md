@@ -72,5 +72,12 @@ This dashboard helps answer key questions:
 - How do salaries differ by education level and gender?
 - Is there a correlation between employee performance and educational background?
 - Which locations have the largest workforce?
-## 📂 Repository Structure
 
+---
+
+## 🙌 Let's Connect!
+*If you liked this project or want to collaborate on future data analytics or BI dashboards, feel free to reach out:*
+
+📧 [princepastakiya@gmail.com]  
+🌐 [LinkedIn](https://www.linkedin.com/in/prince-pastakiya/)  
+📁 [My Portfolio](https://prince-pastakiya-portfolio.vercel.app/)
